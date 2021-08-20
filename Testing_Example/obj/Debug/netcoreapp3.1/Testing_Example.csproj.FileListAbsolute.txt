@@ -1,0 +1,9 @@
+C:\Users\jorge.gonzalez\source\repos\Testing_Example\Testing_Example\bin\Debug\netcoreapp3.1\Testing_Example.deps.json
+C:\Users\jorge.gonzalez\source\repos\Testing_Example\Testing_Example\bin\Debug\netcoreapp3.1\Testing_Example.dll
+C:\Users\jorge.gonzalez\source\repos\Testing_Example\Testing_Example\bin\Debug\netcoreapp3.1\Testing_Example.pdb
+C:\Users\jorge.gonzalez\source\repos\Testing_Example\Testing_Example\obj\Debug\netcoreapp3.1\Testing_Example.csproj.AssemblyReference.cache
+C:\Users\jorge.gonzalez\source\repos\Testing_Example\Testing_Example\obj\Debug\netcoreapp3.1\Testing_Example.AssemblyInfoInputs.cache
+C:\Users\jorge.gonzalez\source\repos\Testing_Example\Testing_Example\obj\Debug\netcoreapp3.1\Testing_Example.AssemblyInfo.cs
+C:\Users\jorge.gonzalez\source\repos\Testing_Example\Testing_Example\obj\Debug\netcoreapp3.1\Testing_Example.csproj.CoreCompileInputs.cache
+C:\Users\jorge.gonzalez\source\repos\Testing_Example\Testing_Example\obj\Debug\netcoreapp3.1\Testing_Example.dll
+C:\Users\jorge.gonzalez\source\repos\Testing_Example\Testing_Example\obj\Debug\netcoreapp3.1\Testing_Example.pdb
